@@ -15,7 +15,7 @@ Diberikan sebuah data berupa `array of string` sebagai berikut:
 ]
 ```
 
-Buatlah sebuah fungsi dengan nama `sortDate` yang akan menerima argument `array of string` yang diberikan di atas, dan `posisi` ke berapa yang akan dicari, dan akan mengembalikan nilai berupa `string` tanggal yang dicari dengan format epoch time dalam second (`BUKAN` millisecond)
+Buatlah sebuah fungsi dengan nama `createDate` yang akan menerima argument `array of string` yang diberikan di atas, dan `posisi` ke berapa yang akan dicari, dan akan mengembalikan nilai berupa `string` tanggal yang dicari dengan format epoch time dalam second (`BUKAN` millisecond)
 
 Apabila `posisi` tidak diberikan, maka akan mencetak semuanya dan sudah terurut berdasarkan angka epoch time tersebut, dalam `string` epoch time second juga.
 
